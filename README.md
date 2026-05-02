@@ -54,6 +54,18 @@ For decompression:
 - PSNR (Peak Signal-to-Noise Ratio)
 
 ---
+## Example
+
+### Compression Result
+
+![JPEG Result](Screenshot (1138).png)
+
+This example shows the original and reconstructed image after compression.
+
+- Compression ratio: 30.65x  
+- PSNR: 23.39 dB  
+
+The result demonstrates how JPEG compression reduces file size while preserving acceptable visual quality.
 
 ## How to run
 
